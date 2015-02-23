@@ -1,2 +1,1 @@
-# valentine-day
-Valentine Day 2016
+Created with Git Draw (http://github.com/ben174/git-draw)
